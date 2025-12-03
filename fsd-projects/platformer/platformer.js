@@ -1,4 +1,3 @@
-const { createRef } = require("react");
 
 $(function () {
   // initialize canvas and context when able to
@@ -29,7 +28,7 @@ $(function () {
     //////////////////////////////////
 
     // TODO 1 - Enable the Grid
-    toggleGrid();
+    // toggleGrid();
 
 
     // TODO 2 - Create Platforms
